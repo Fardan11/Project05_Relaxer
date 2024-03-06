@@ -29,7 +29,7 @@ body {
   background-color: blueviolet;
   position: absolute;
 }
-/*
+.gradient-circle {
   height: 320px;
   width: 320px;
   position: absolute;
@@ -37,15 +37,14 @@ body {
   left: -10px;
   z-index: -2;
   border-radius: 50%;
-}*/
-/* .circle {
-    background-color: #0d2d4b;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: -1;
-    border-radius: 50%;
-  }
-   */
+}
+.circle {
+  background-color: #0d2d4b;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 50%;
+}
